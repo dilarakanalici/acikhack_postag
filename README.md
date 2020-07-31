@@ -4,7 +4,7 @@
 kullanabilmesi ve dillerin birbirine dönüştürüldüğünde (aşağıda açıklanan tag set ile) hızlı işlenebilmesi amacıyla
 katkı sunmak istedik. 
 ## Universal Tag Set Nedir? 
-Universal Tag Set, tüm dillerin ortak groundunun oluşması için belirlenmiş temel tagden oluşmaktadır.Bu dillerin birbiri yerine kullanılmasını 
+Universal Tag Set, tüm dillerin ortak groundunun oluşması için belirlenmiş temel taglerden oluşmaktadır.Bu dillerin birbiri yerine kullanılmasını 
 kolaylaştırır.
 Seti seçerken aşağıdaki linkteki oranları baz aldık.
 [Tag Set Tanıtım](https://universaldependencies.org/treebanks/tr_imst/index.html)
